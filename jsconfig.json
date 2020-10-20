@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es2017",
+        "allowSyntheticDefaultImports": false,
+        "baseUrl": "./",
+        "paths": {
+            "@emotion-ui/themes": ["@emotion-ui/packages/themes/dist/cjs"],
+            "@emotion-ui/components": ["@emotion-ui/packages/components/dist/cjs"]
+
+        }
+    },
+    "exclude": ["node_modules", ".next"]
+}

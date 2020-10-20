@@ -1,0 +1,30 @@
+{
+  "name": "emotionjs-component-library-nextjs",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "rm -rf .next && NODE_ENV=production next build",
+    "dev": "next",
+    "start": "NODE_ENV=production next start -p 8080"
+  },
+  "dependencies": {
+    "@emotion-ui": "https://github.com/wilsonmsalberto/emotionjs-component-library.git#v0.0.3",
+    "@emotion/babel-preset-css-prop": "10.0.27",
+    "@emotion/core": "10.0.35",
+    "@emotion/styled": "10.0.27",
+    "emotion-normalize": "10.1.0",
+    "emotion-theming": "10.0.27",
+    "next": "9.5.5",
+    "react": "16.14.0",
+    "react-dom": "16.14.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.12.3",
+    "@babel/helper-create-regexp-features-plugin": "7.12.1",
+    "@babel/plugin-transform-object-assign": "7.12.1",
+    "babel-loader": "8.1.0",
+    "babel-plugin-module-resolver": "4.0.0",
+    "babel-plugin-transform-dynamic-import": "2.1.0"
+  }
+}
