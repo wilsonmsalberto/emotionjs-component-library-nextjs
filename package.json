@@ -9,7 +9,7 @@
     "start": "NODE_ENV=production next start -p 8080"
   },
   "dependencies": {
-    "@emotion-ui": "https://github.com/wilsonmsalberto/emotionjs-component-library.git#v0.0.3",
+    "@emotion-ui": "https://github.com/wilsonmsalberto/emotionjs-component-library.git#v0.0.4",
     "@emotion/babel-preset-css-prop": "10.0.27",
     "@emotion/core": "10.0.35",
     "@emotion/styled": "10.0.27",

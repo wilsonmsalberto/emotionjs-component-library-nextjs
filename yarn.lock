@@ -1105,9 +1105,9 @@
     lodash "^4.17.19"
     to-fast-properties "^2.0.0"
 
-"@emotion-ui@https://github.com/wilsonmsalberto/emotionjs-component-library.git#v0.0.3":
-  version "0.0.3"
-  resolved "https://github.com/wilsonmsalberto/emotionjs-component-library.git#18dba093ac8c5b32683f45a2050252e3c7ea83ab"
+"@emotion-ui@https://github.com/wilsonmsalberto/emotionjs-component-library.git#v0.0.4":
+  version "0.0.4"
+  resolved "https://github.com/wilsonmsalberto/emotionjs-component-library.git#10d51a62538a58f84acadbcd7f7a183fe1421c49"
   dependencies:
     "@emotion/babel-preset-css-prop" "10.0.27"
     "@emotion/core" "10.0.35"
